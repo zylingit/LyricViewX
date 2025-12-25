@@ -4,6 +4,8 @@
 
 LyricViewX is a beautiful Lyrics control for Android.
 
+Thank you
+
 Based on [LrcView](https://github.com/zion223/NeteaseCloudMusic-MVVM/blob/master/lib_common_ui/src/main/java/com/netease/lib_common_ui/lrc/LrcView.java) design.
 
 [中文点击这里（可能不是最新）](/README-zh-CN.md)
